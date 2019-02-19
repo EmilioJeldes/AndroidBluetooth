@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothLearning</string>
+    <string name="on_off">ON/OFF</string>
+    <string name="enable_discoverable">Enable Discoverable</string>
+</resources>
